@@ -179,7 +179,7 @@ namespace WindowsForm
             // you're running this program on. NP-View II **only** listens on
             // http://localhost:8080 (this is not a configurable option).
             //var npg = new NPViewGraph("abhijeet_ntpc@tamu.edu", "<my_password>", "demo", "files/demo-workspace-nessus-scan.xml", true);
-            demoNPVGraph = new NPViewGraph("abhijeet_ntpc@tamu.edu", "Bunty#2021#", "Eight_Sub_Case", "files/demo-workspace-nessus-scan.xml", true);
+            demoNPVGraph = new NPViewGraph("abhijeet_ntpc@tamu.edu", "<my_password>", "Eight_Sub_Case", "files/demo-workspace-nessus-scan.xml", true);
 
             // This constructor will cause mock data to be used.
             //var npg = new NPViewGraph();
