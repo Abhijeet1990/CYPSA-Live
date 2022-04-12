@@ -1,0 +1,17 @@
+D:\Project Codes\WindowsForm\NpView\bin\Debug\netstandard2.0\NpView.deps.json
+D:\Project Codes\WindowsForm\NpView\bin\Debug\netstandard2.0\NpView.dll
+D:\Project Codes\WindowsForm\NpView\obj\Debug\netstandard2.0\NpView.AssemblyInfoInputs.cache
+D:\Project Codes\WindowsForm\NpView\obj\Debug\netstandard2.0\NpView.AssemblyInfo.cs
+D:\Project Codes\WindowsForm\NpView\bin\Debug\netstandard2.0\NpView.pdb
+D:\Project Codes\WindowsForm\NpView\obj\Debug\netstandard2.0\NpView.dll
+D:\Project Codes\WindowsForm\NpView\obj\Debug\netstandard2.0\NpView.pdb
+D:\Project Codes\WindowsForm\NpView\obj\Debug\netstandard2.0\NpView.csprojAssemblyReference.cache
+C:\Users\substationc\Desktop\cypsa_live\NpView\bin\Debug\netstandard2.0\NpView.deps.json
+C:\Users\substationc\Desktop\cypsa_live\NpView\bin\Debug\netstandard2.0\NpView.dll
+C:\Users\substationc\Desktop\cypsa_live\NpView\bin\Debug\netstandard2.0\NpView.pdb
+C:\Users\substationc\Desktop\cypsa_live\NpView\obj\Debug\netstandard2.0\NpView.csprojAssemblyReference.cache
+C:\Users\substationc\Desktop\cypsa_live\NpView\obj\Debug\netstandard2.0\NpView.csproj.CoreCompileInputs.cache
+C:\Users\substationc\Desktop\cypsa_live\NpView\obj\Debug\netstandard2.0\NpView.AssemblyInfoInputs.cache
+C:\Users\substationc\Desktop\cypsa_live\NpView\obj\Debug\netstandard2.0\NpView.AssemblyInfo.cs
+C:\Users\substationc\Desktop\cypsa_live\NpView\obj\Debug\netstandard2.0\NpView.dll
+C:\Users\substationc\Desktop\cypsa_live\NpView\obj\Debug\netstandard2.0\NpView.pdb

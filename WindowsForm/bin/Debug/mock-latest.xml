@@ -1,0 +1,151 @@
+<?xml version = "1.0" ?>
+<NessusClientData_v2>
+   <Report name="testbed" xmlns:cm="http://www.nessus.org/cm">
+        <ReportHost name="10.31.1.1">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-30984</cve>
+               <cvss_base_score>4.9</cvss_base_score>
+               <cvss_temporal_score>6.4</cvss_temporal_score>
+           </ReportItem>
+           <ReportItem port="443" protocol="tcp" severity="HIGH">
+               <cve>CVE-2021-30954</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>10</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.101">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-30951</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>6.4</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.102">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-3850</cve>
+               <cvss_base_score>10</cvss_base_score>
+               <cvss_temporal_score>4.9</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.103">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-30952</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>6.4</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.104">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2022-24122</cve>
+               <cvss_base_score>3.4</cvss_base_score>
+               <cvss_temporal_score>10</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.105">
+           <ReportItem port="22" protocol="tcp" severity="HIGH">
+               <cve>CVE-2021-30954</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>10</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.201">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-45930</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>2.9</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.202">
+           <ReportItem port="22" protocol="tcp" severity="HIGH">
+               <cve>CVE-2021-30954</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>10</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.203">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-30953</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>6.4</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.204">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-30984</cve>
+               <cvss_base_score>4.9</cvss_base_score>
+               <cvss_temporal_score>6.4</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.205">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-3850</cve>
+               <cvss_base_score>10</cvss_base_score>
+               <cvss_temporal_score>4.9</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.206">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-3850</cve>
+               <cvss_base_score>10</cvss_base_score>
+               <cvss_temporal_score>4.9</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.31.1.250">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-30984</cve>
+               <cvss_base_score>4.9</cvss_base_score>
+               <cvss_temporal_score>6.4</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.32.1.1">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2022-24122</cve>
+               <cvss_base_score>3.4</cvss_base_score>
+               <cvss_temporal_score>10</cvss_temporal_score>
+           </ReportItem>
+           <ReportItem port="443" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-3850</cve>
+               <cvss_base_score>10</cvss_base_score>
+               <cvss_temporal_score>4.9</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.32.1.201">
+           <ReportItem port="21" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-30953</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>6.4</cvss_temporal_score>
+           </ReportItem>
+           <ReportItem port="23" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-30936</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>6.4</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.32.1.250">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-30953</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>6.4</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.39.1.1">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-3850</cve>
+               <cvss_base_score>10</cvss_base_score>
+               <cvss_temporal_score>4.9</cvss_temporal_score>
+           </ReportItem>
+           <ReportItem port="443" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-45930</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>2.9</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+        <ReportHost name="10.39.1.22">
+           <ReportItem port="22" protocol="tcp" severity="MEDIUM">
+               <cve>CVE-2021-45930</cve>
+               <cvss_base_score>8.6</cvss_base_score>
+               <cvss_temporal_score>2.9</cvss_temporal_score>
+           </ReportItem>
+        </ReportHost>
+    </Report>
+</NessusClientData_v2>

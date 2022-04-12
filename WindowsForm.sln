@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyPSA_Live", "WindowsForm\CyPSA_Live.csproj", "{61E0561B-B9F2-487D-B590-E67EC1633DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NpView", "NpView\NpView.csproj", "{D28D801C-6FB5-4189-9F59-D2D4EA0EAFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E0561B-B9F2-487D-B590-E67EC1633DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E0561B-B9F2-487D-B590-E67EC1633DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E0561B-B9F2-487D-B590-E67EC1633DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E0561B-B9F2-487D-B590-E67EC1633DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28D801C-6FB5-4189-9F59-D2D4EA0EAFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28D801C-6FB5-4189-9F59-D2D4EA0EAFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28D801C-6FB5-4189-9F59-D2D4EA0EAFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28D801C-6FB5-4189-9F59-D2D4EA0EAFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C5EF58-CE80-4F16-A424-519650E0CBCE}
+	EndGlobalSection
+EndGlobal

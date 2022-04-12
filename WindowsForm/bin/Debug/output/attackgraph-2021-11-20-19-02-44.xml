@@ -1,0 +1,494 @@
+<?xml version="1.0"?>
+<VCReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="vuln">
+  <NmapAnalysis sourceNode="10.39.1.22" sourceNodeId="76" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.39.1.22" nodeId="76" cost="5.8">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.39.1.22" sourceNodeId="76" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.39.1.22" nodeId="76" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.39.1.22" sourceNodeId="76" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.39.1.22" nodeId="76" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.39.1.22" sourceNodeId="76" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.39.1.22" nodeId="76" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.39.1.22" sourceNodeId="76" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.39.1.22" nodeId="76" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.39.1.22" sourceNodeId="76" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.39.1.22" nodeId="76" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.39.1.22" sourceNodeId="76" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.39.1.22" nodeId="76" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.1" sourceNodeId="10" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.1" nodeId="10" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.1" sourceNodeId="10" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.1" nodeId="10" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.1" sourceNodeId="10" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.1" nodeId="10" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.1" sourceNodeId="10" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.1" nodeId="10" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.1" sourceNodeId="10" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.1" nodeId="10" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.1" sourceNodeId="10" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.1" nodeId="10" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.101" sourceNodeId="11" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.101" nodeId="11" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.101" sourceNodeId="11" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.101" nodeId="11" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.101" sourceNodeId="11" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.101" nodeId="11" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.101" sourceNodeId="11" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.101" nodeId="11" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.101" sourceNodeId="11" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.101" nodeId="11" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.101" sourceNodeId="11" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.101" nodeId="11" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.102" sourceNodeId="12" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.102" nodeId="12" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.102" sourceNodeId="12" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.102" nodeId="12" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.102" sourceNodeId="12" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.102" nodeId="12" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.102" sourceNodeId="12" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.102" nodeId="12" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.102" sourceNodeId="12" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.102" nodeId="12" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.102" sourceNodeId="12" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.102" nodeId="12" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.103" sourceNodeId="13" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.103" nodeId="13" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.103" sourceNodeId="13" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.103" nodeId="13" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.103" sourceNodeId="13" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.103" nodeId="13" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.103" sourceNodeId="13" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.103" nodeId="13" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.103" sourceNodeId="13" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.103" nodeId="13" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.103" sourceNodeId="13" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.103" nodeId="13" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.104" sourceNodeId="14" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.104" nodeId="14" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.104" sourceNodeId="14" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.104" nodeId="14" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.104" sourceNodeId="14" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.104" nodeId="14" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.104" sourceNodeId="14" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.104" nodeId="14" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.104" sourceNodeId="14" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.104" nodeId="14" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.104" sourceNodeId="14" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.104" nodeId="14" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.105" sourceNodeId="15" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.105" nodeId="15" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.105" sourceNodeId="15" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.105" nodeId="15" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.105" sourceNodeId="15" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.105" nodeId="15" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.105" sourceNodeId="15" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.105" nodeId="15" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.105" sourceNodeId="15" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.105" nodeId="15" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.105" sourceNodeId="15" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.105" nodeId="15" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.201" sourceNodeId="16" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.201" nodeId="16" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.201" sourceNodeId="16" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.201" nodeId="16" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.201" sourceNodeId="16" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.201" nodeId="16" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.201" sourceNodeId="16" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.201" nodeId="16" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.201" sourceNodeId="16" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.201" nodeId="16" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.201" sourceNodeId="16" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.201" nodeId="16" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.202" sourceNodeId="17" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.202" nodeId="17" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.202" sourceNodeId="17" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.202" nodeId="17" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.202" sourceNodeId="17" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.202" nodeId="17" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.202" sourceNodeId="17" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.202" nodeId="17" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.202" sourceNodeId="17" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.202" nodeId="17" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.202" sourceNodeId="17" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.202" nodeId="17" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.202" sourceNodeId="17" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.202" nodeId="17" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.203" sourceNodeId="18" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.203" nodeId="18" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.203" sourceNodeId="18" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.203" nodeId="18" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.203" sourceNodeId="18" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.203" nodeId="18" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.203" sourceNodeId="18" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.203" nodeId="18" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.203" sourceNodeId="18" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.203" nodeId="18" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.203" sourceNodeId="18" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.203" nodeId="18" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.203" sourceNodeId="18" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.203" nodeId="18" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.204" sourceNodeId="19" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.204" nodeId="19" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.204" sourceNodeId="19" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.204" nodeId="19" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.204" sourceNodeId="19" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.204" nodeId="19" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.204" sourceNodeId="19" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.204" nodeId="19" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.204" sourceNodeId="19" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.204" nodeId="19" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.204" sourceNodeId="19" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.204" nodeId="19" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.204" sourceNodeId="19" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.204" nodeId="19" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.205" sourceNodeId="20" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.205" nodeId="20" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.205" sourceNodeId="20" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.205" nodeId="20" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.205" sourceNodeId="20" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.205" nodeId="20" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.205" sourceNodeId="20" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.205" nodeId="20" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.205" sourceNodeId="20" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.205" nodeId="20" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.205" sourceNodeId="20" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.205" nodeId="20" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.205" sourceNodeId="20" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.205" nodeId="20" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.206" sourceNodeId="21" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.206" nodeId="21" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.206" sourceNodeId="21" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.206" nodeId="21" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.206" sourceNodeId="21" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.206" nodeId="21" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.206" sourceNodeId="21" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.206" nodeId="21" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.206" sourceNodeId="21" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.206" nodeId="21" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.206" sourceNodeId="21" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.206" nodeId="21" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.206" sourceNodeId="21" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.206" nodeId="21" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.207" sourceNodeId="22" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.207" nodeId="22" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.207" sourceNodeId="22" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.207" nodeId="22" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.207" sourceNodeId="22" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.207" nodeId="22" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.207" sourceNodeId="22" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.207" nodeId="22" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.207" sourceNodeId="22" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.207" nodeId="22" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.207" sourceNodeId="22" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.207" nodeId="22" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.207" sourceNodeId="22" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.207" nodeId="22" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.250" sourceNodeId="23" destinationNode="10.31.1.1" destinationNodeId="10">
+    <Path attackNode="10.31.1.250" nodeId="23" cost="2.9">
+      <Node IPAddress="10.31.1.1" nodeId="10" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.250" sourceNodeId="23" destinationNode="10.31.1.101" destinationNodeId="11">
+    <Path attackNode="10.31.1.250" nodeId="23" cost="2.9">
+      <Node IPAddress="10.31.1.101" nodeId="11" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.250" sourceNodeId="23" destinationNode="10.31.1.102" destinationNodeId="12">
+    <Path attackNode="10.31.1.250" nodeId="23" cost="2.9">
+      <Node IPAddress="10.31.1.102" nodeId="12" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.250" sourceNodeId="23" destinationNode="10.31.1.103" destinationNodeId="13">
+    <Path attackNode="10.31.1.250" nodeId="23" cost="2.9">
+      <Node IPAddress="10.31.1.103" nodeId="13" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.250" sourceNodeId="23" destinationNode="10.31.1.104" destinationNodeId="14">
+    <Path attackNode="10.31.1.250" nodeId="23" cost="2.9">
+      <Node IPAddress="10.31.1.104" nodeId="14" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.250" sourceNodeId="23" destinationNode="10.31.1.105" destinationNodeId="15">
+    <Path attackNode="10.31.1.250" nodeId="23" cost="2.9">
+      <Node IPAddress="10.31.1.105" nodeId="15" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+  <NmapAnalysis sourceNode="10.31.1.250" sourceNodeId="23" destinationNode="10.31.1.201" destinationNodeId="16">
+    <Path attackNode="10.31.1.250" nodeId="23" cost="2.9">
+      <Node IPAddress="10.31.1.201" nodeId="16" vulnID="CVE-2021-41184" cost="2.9" />
+    </Path>
+  </NmapAnalysis>
+</VCReport>

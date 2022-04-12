@@ -1,0 +1,110 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "c31911e1386b64bb4e996b6b7c051f7f9207c482"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "NpView/1.0.0": {
+        "dependencies": {
+          "IPAddressRange": "4.2.0",
+          "NETStandard.Library": "2.0.3",
+          "Newtonsoft.Json": "13.0.1",
+          "QuickGraph": "3.6.61119.7"
+        },
+        "runtime": {
+          "NpView.dll": {}
+        }
+      },
+      "IPAddressRange/4.2.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.4/IPAddressRange.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "QuickGraph/3.6.61119.7": {
+        "runtime": {
+          "lib/net4/QuickGraph.Data.dll": {
+            "assemblyVersion": "3.6.61114.0",
+            "fileVersion": "3.6.61114.0"
+          },
+          "lib/net4/QuickGraph.Graphviz.dll": {
+            "assemblyVersion": "3.6.61114.0",
+            "fileVersion": "3.6.61114.0"
+          },
+          "lib/net4/QuickGraph.Serialization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net4/QuickGraph.dll": {
+            "assemblyVersion": "3.6.61114.0",
+            "fileVersion": "3.6.61114.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NpView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPAddressRange/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6lIcyfhmE7ZF4sOIMBwngk6yBSzfTw0n02EReTAAKxB1FjA0rZBJ5EjJhe87OucWFCguVLEmOV9ZMB2LpvOoLQ==",
+      "path": "ipaddressrange/4.2.0",
+      "hashPath": "ipaddressrange.4.2.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "QuickGraph/3.6.61119.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-crtYNiFcYFtYbmbEfdYsdGw5M3923OO5ZZD25K+WeLPgTp/q4oq3U/FVrbaOK5+Jg8UJDmoZ6sqAVion4RgXCA==",
+      "path": "quickgraph/3.6.61119.7",
+      "hashPath": "quickgraph.3.6.61119.7.nupkg.sha512"
+    }
+  }
+}

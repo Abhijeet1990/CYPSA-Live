@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\substationc\\Desktop\\cypsa_live\\NpView\\NpView.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\substationc\\Desktop\\cypsa_live\\NpView\\NpView.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\substationc\\Desktop\\cypsa_live\\NpView\\NpView.csproj",
+        "projectName": "NpView",
+        "projectPath": "C:\\Users\\substationc\\Desktop\\cypsa_live\\NpView\\NpView.csproj",
+        "packagesPath": "C:\\Users\\substationc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\substationc\\Desktop\\cypsa_live\\NpView\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\substationc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "IPAddressRange": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "QuickGraph": {
+              "target": "Package",
+              "version": "[3.6.61119.7, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
