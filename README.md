@@ -22,7 +22,10 @@ While *CC* is computed based on the summation of CVSS scores based on the vulner
 
 - `SimAuto\SimAuto.cs` : This code opens the power world case and loads the branch, breaker, contingency, bus, generator, relay etc information. It is also considered for operating the grid using the simauto .com object from this code.
 - `BC\cpbc.py` : This is the python script to obtain the betweenness centrality and cyber-physical betweenness centrality measures of each node from the attack graph. The users can refer to our paper [Cyber-physical component ranking for risk sensitivity analysis using betweenness centrality](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cps2.12010)
+- `AttackTreeView.cs` : This is a windows form for attack tree visualization.
+- `cypsa_main.cs` : This is the main windows desktop application. 
 
+The initial version of the CYPSA application is published in Intelligent Systems Applications to Power Systems (ISAP) 2019, [A Framework for Cyber-Physical Model Creation and Evaluation](https://ieeexplore.ieee.org/abstract/document/9065990)
 
 
 
