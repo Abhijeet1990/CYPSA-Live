@@ -8,12 +8,15 @@ This is the windows desktop application with some backend programmed in python f
 - `NPViewGraph.cs` : This is the class used to construct the attack graph by parsing the connectivity, vulnerable hosts, and access path information. The `ParseVulnerableHosts()` parses the Nessus results, maps each vulnerablie IP address to a list of vulnerabilities, 
 with each vulnerability for the IP address tracking protocol, port, CVE and score. `ParseConnectivityMap()` constructs the network topology (basic structure of the attack graph). `ParsePaths()` function takes the access paths from the NP-Live application to add additional 
 edge into the attack graph. `CreateVulnXML()` creates the nessus vulnerability xml file as per the template of the `mock-vulns.xml`. `GetScores()` gets the scores from the NVD database from cloud and returns the list of hosts along with their vulnerabilities and scores
+- `util.cs` : Contains the declaration of all the user-defined class considered in the `NPViewGraph.cs` class for attack graph construction.
 
+`CVE_Search` folder contains code extended from `https://github.com/cve-search/cve-search`. This is primarily used to perform local searches for known vulnerabilities. The main objective of the software is to avoid doing direct and public lookups into the public CVE databases. Local lookups are usually faster and you can limit your sensitive queries via the Internet.
 
-
-
-
-
+**Description of the files and folders within `WindowsForm` folder**
+This folder contain the main code for the windows application for interacting with the *PowerWorld* using SimAuto object, and combine it with the attack graph from the `NPViewGraph` object to compute the security index (SI)
+```math
+SI = \frac{PI}{CC}
+```. 
 
 
 
