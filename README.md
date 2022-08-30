@@ -21,7 +21,7 @@ where, *PI* is the performance index computed from the electric grid depending o
 While *CC* is computed based on the summation of CVSS scores based on the vulnerabilities on the nodes in the access paths to the target node. 
 
 - `SimAuto\SimAuto.cs` : This code opens the power world case and loads the branch, breaker, contingency, bus, generator, relay etc information. It is also considered for operating the grid using the simauto .com object from this code.
-- `BC\cpbc.py` : This is the python script to obtain the betweenness centrality and cyber-physical betweenness centrality measures of each node from the attack graph. The users can refer to our paper ![Cyber-physical component ranking for risk sensitivity analysis using betweenness centrality](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cps2.12010)
+- `BC\cpbc.py` : This is the python script to obtain the betweenness centrality and cyber-physical betweenness centrality measures of each node from the attack graph. The users can refer to our paper [Cyber-physical component ranking for risk sensitivity analysis using betweenness centrality](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cps2.12010)
 
 
 
