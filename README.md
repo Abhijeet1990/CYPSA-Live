@@ -1,5 +1,5 @@
 # CyPSA-Live
-It is an application for Cyber Physical Situational Awareness through interaction with NP-Live and NVD database through creation of attack graph templates. The focus is on critical asset ranking, and power system contingency analysis.
+It is an application for Cyber Physical Situational Awareness through interaction with [NP-Live](https://network-perception.com/) and [NVD database](https://nvd.nist.gov/general/cve-process) through creation of attack graph templates. The focus is on critical asset ranking, and power system contingency analysis.
 
 This is the windows desktop application with some backend programmed in python for betweenness centrality and cyber physical betweenness centrality.
 
