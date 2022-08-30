@@ -16,7 +16,9 @@ edge into the attack graph. `CreateVulnXML()` creates the nessus vulnerability x
 This folder contain the main code for the windows application for interacting with the *PowerWorld* using SimAuto object, and combine it with the attack graph from the `NPViewGraph` object to compute the security index (SI)
 ```math
 SI = \frac{PI}{CC}
-```. 
+```
+where, *PI* is the performance index computed from the electric grid depending on the grid components that can be compromised based on the relays in compromised paths.
+While *CC* is computed based on the summation of CVSS scores based on the vulnerabilities on the nodes in the access paths to the target node. 
 
 
 
