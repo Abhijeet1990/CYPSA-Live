@@ -25,6 +25,8 @@ While *CC* is computed based on the summation of CVSS scores based on the vulner
 - `AttackTreeView.cs` : This is a windows form for attack tree visualization.
 - `cypsa_main.cs` : This is the main windows desktop application. 
 
+`Cases` : Contains the zipped files comprising of NP-View files, firewall configurations and some sample attack graphs generated for 8 substation, IEEE 24 and IEEE 300 bus system.
+
 The initial version of the CYPSA application is published in Intelligent Systems Applications to Power Systems (ISAP) 2019, [A Framework for Cyber-Physical Model Creation and Evaluation](https://ieeexplore.ieee.org/abstract/document/9065990)
 
 
